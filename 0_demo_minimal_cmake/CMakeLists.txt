@@ -1,4 +1,4 @@
-# Set a minimum required version of CMake. Use at least version 3.21 
+# Set a minimum required version of CMake. Use at least version 3.16
 # See: https://cmake.org/cmake/help/latest/command/cmake_minimum_required.html
 
 
